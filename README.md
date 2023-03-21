@@ -1,4 +1,4 @@
-Durante minha experiência na criação do jogo Kami Kaido, criei esse esqueleto para o jogo como estudo para aplicar no jogo final
+Durante minha experiência na criação do jogo Kami Kaido criei esse esqueleto para o jogo, como estudo para aplicar no jogo final
 
 Nesse estudo eu coloquei:
 - Um mapa que gera aleatoriamente quando inicia a Cena
